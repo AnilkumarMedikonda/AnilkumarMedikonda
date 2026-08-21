@@ -29,7 +29,6 @@ Currently documenting a 45-day interview preparation sprint in public:
 | Repository | Description |
 |------------|-------------|
 | **[Top_DSA_Interview_Questions](https://github.com/AnilkumarMedikonda/Top_DSA_Interview_Questions)** | 85 curated interview questions in Swift — 9 pattern phases, one revision and one mock per phase, complexity on every file. |
-| **[DSA-Logic-and-Interview-Prep](https://github.com/AnilkumarMedikonda/DSA-Logic-and-Interview-Prep)** | 247 problems in Swift across 21 phases — the full journey, from logic building to dynamic programming and bit manipulation. |
 | **[iOS-Architecture-Patterns](https://github.com/AnilkumarMedikonda/iOS-Architecture-Patterns)** | iOS architecture patterns implemented in Swift, SwiftUI and UIKit. |
 
 ---
